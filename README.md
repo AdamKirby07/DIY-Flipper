@@ -1,4 +1,4 @@
-# I am still working on putting doccumentation togeather.
+# I am still working on putting documentation together.
 
 # DIY-Flipper
 DIY-Flipper is a project created to recreate the functionality of a flipper zero in a DIY Format.
