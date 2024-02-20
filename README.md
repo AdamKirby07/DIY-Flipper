@@ -1,3 +1,5 @@
+# I am still working on putting doccumentation togeather.
+
 # DIY-Flipper
 DIY-Flipper is a project created to recreate the functionality of a flipper zero in a DIY Format.
 
