@@ -1,3 +1,5 @@
 UPDATE
 
 I am curently working on an electronics prototype i will post after i have finished, orderd boards and done somne basic validation.
+
+Prototypes have been orderd and so have parts.
