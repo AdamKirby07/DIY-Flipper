@@ -2,4 +2,8 @@ UPDATE
 
 I am curently working on an electronics prototype i will post after i have finished, orderd boards and done somne basic validation.
 
-Prototypes have been orderd and so have parts.
+Prototypes have arrived but i am still waiting on soma parts.
+
+
+
+would it be prefeerabe to be a featherwing for adafruit's microcontrollers so it just pluggs on
